@@ -1,1 +1,1 @@
-# npm-loadtest
+# node-loadtest
